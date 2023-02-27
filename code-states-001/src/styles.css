@@ -1,0 +1,47 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .header {
+    display: flex;
+  }
+  button {
+    margin-left: 30%;
+    background-color: red;
+    color: white;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .sub {
+    height: 120%;
+    width: 500px;
+  }
+  h1 {
+    color: black;
+  }
+  h2 {
+    color: red;
+  }
+  .dark {
+    background-color: black;
+  }
+  .light {
+    background-color: white;
+  }
+  .nopara {
+    color: white;
+  }
+  .h1white {
+    color: black;
+  }
+  .h1black {
+    color: white;
+  }
+  
