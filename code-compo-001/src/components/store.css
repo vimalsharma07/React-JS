@@ -1,0 +1,15 @@
+
+
+h1, h2 {
+    display: flex;
+  align-content: flex-start;
+}
+
+p{
+    display: flex;
+  align-content: flex-start;
+}
+h2{
+    display: flex;
+  align-content: flex-start;
+}
